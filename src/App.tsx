@@ -3,7 +3,8 @@ import './App.css'
 // import Randome from "./Component/randomcolors"
 // import Star from "./Component/star-rating"
 // import Slider from "./Component/Slider-photo"
-import Loader from "./Component/LoadMore"
+// import Loader from "./Component/LoadMore"
+import Tree from "./Component/treeView"
 
 function App() {
 
@@ -15,7 +16,8 @@ function App() {
         {/* <Randome /> */}
         {/* <Star />
         <Slider/> */}
-        <Loader />
+        {/* <Loader /> */}
+        <Tree />
     
     </>
   )
