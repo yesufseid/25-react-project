@@ -4,7 +4,8 @@ import './App.css'
 // import Star from "./Component/star-rating"
 // import Slider from "./Component/Slider-photo"
 // import Loader from "./Component/LoadMore"
-import Tree from "./Component/treeView"
+// import Tree from "./Component/treeView"
+// import Qrcode from './Component/qr-code'
 
 function App() {
 
@@ -17,7 +18,8 @@ function App() {
         {/* <Star />
         <Slider/> */}
         {/* <Loader /> */}
-        <Tree />
+        {/* <Tree /> */}
+        {/* <Qrcode /> */}
     
     </>
   )

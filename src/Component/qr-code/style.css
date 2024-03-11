@@ -1,0 +1,13 @@
+.title{
+    font-size: large;
+    align-content: center;
+
+}
+.imput{
+    border: blue;
+    
+}
+.button{
+    border: blueviolet;
+    padding:2px 2px;
+}
